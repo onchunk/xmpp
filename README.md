@@ -1,21 +1,22 @@
-| Host                                    | C2S  | S2S  | In-band | Updated                  |
-|-----------------------------------------|------|------|---------|--------------------------|
-| improxy1.cloudpbx.dev.shawbusiness.ca   | true |      | false   | 2025-03-20 21:03:03 UTC  |
-| dibom.de                                | true | true | true    | 2025-03-20 21:01:18 UTC  |
-| fpunktk.de                              | true | true | true    | 2025-03-20 21:00:51 UTC  |
-| wetdry.world                            | true | true | true    | 2025-03-19 23:55:34 UTC  |
-| cloudfiles.at                           | false| true | false   | 2025-03-19 23:54:57 UTC  |
-| bhfive.com                              | true | true | true    | 2025-03-19 23:54:31 UTC  |
-| w4eg.de                                 | true | true | false   | 2025-03-19 23:53:55 UTC  |
-| zucker.schokokeks.org                   | true | true | false   | 2025-03-19 23:53:30 UTC  |
-| hackr.org                               | true | true | false   | 2025-03-19 23:53:05 UTC  |
-| mellium.chat                            | true | true | false   | 2025-03-19 23:52:37 UTC  |
-| kawaihae.de                             | true | true | false   | 2025-03-19 23:52:00 UTC  |
-| 5222.im                                 | true | true | false   | 2025-03-19 23:51:32 UTC  |
-| conference.conversejs.org               | true | true | false   | 2025-03-19 23:38:06 UTC  |
-| deimos.hackerheaven.org                 | true | true | true    | 2025-03-19 23:37:41 UTC  |
-| jabber.benny.de                         | false| true | false   | 2025-03-19 23:37:16 UTC  |
-| coniuncte.de                            | true | true | true    | 2025-03-19 23:37: Rugby UTC  |
-| conference.jabber.org                   | true | true | false   | 2025-03-19 23:36:35 UTC  |
-| ttgsat.protime.de                       | true | true | false   | 2025-03-19 23:35:58 UTC  |
-| hostit.de                               | true | true | false   | 2025-03-19 23:35:32 UTC  |
+| Host                          | C2S  | S2S  | In-band | Updated                  | IP-адрес       | Код страны | Страна     | ISP                     | Организация                    | Тип организации |
+|-------------------------------|------|------|---------|--------------------------|----------------|------------|------------|-------------------------|--------------------------------|-----------------|
+| froth.zone                    | true | true | true    | 2025-03-18 22:04:27 UTC  | 95.216.99.249  | FI         | Finland    | Hetzner Online GmbH     | HETZNER-DC                    | GmbH            |
+| jabber.meta.net.nz            | true | true | true    | 2025-03-18 21:55:54 UTC  | 114.23.226.193 | NZ         | Zealand    | Voyager Internet Ltd.   | Voyager Internet Ltd          | Ltd             |
+| ggwt.eu                       | true | true | true    | 2025-03-18 21:51:32 UTC  | 138.201.126.40 | DE         | Germany    | Hetzner Online GmbH     | Hetzner                       | GmbH            |
+| jabber.icb.at                 | true | true | true    | 2025-03-18 21:39:36 UTC  | 195.230.168.99 | AT         | Austria    | kabelplus GmbH          | Kabelplus GmbH                | GmbH            |
+| jabber.absturztau.be          | true | true | true    | 2025-03-18 21:38:20 UTC  | 81.201.202.100 | CH         | Switzerland| BAR Informatik AG       | BAR Access                   | AG              |
+| ca.libraryh3lp.com            | true | true | true    | 2025-03-18 21:37:55 UTC  | 192.99.233.192 | CA         | Canada     | OVH SAS                 | OVH Hosting, Inc.             | SAS             |
+| ufolabs.im                    | true | true | true    | 2025-03-18 21:37:03 UTC  | 134.209.148.27 | IN         | India      | DigitalOcean, LLC       | DigitalOcean, LLC             | LLC             |
+| jabber.gda.pl                 | true | true | true    | 2025-03-18 21:20:13 UTC  | 153.19.250.228 | PL         | Poland     | Technical University... | Nicolaus Copernicus University| Academi...      |
+| xmpp.ru                       | true | true | true    | 2025-03-18 21:19:44 UTC  | 116.202.237.43 | DE         | Germany    | Hetzner Online GmbH     | Hetzner Online GmbH           | GmbH            |
+| jabber.cz                     | true | true | true    | 2025-03-18 21:19:23 UTC  | 95.168.217.72  | CZ         | Czechia    | SuperNetwork s.r.o.     | BackupLife s.r.o              | s.r.o.          |
+| grobox.de                     | true | true | true    | 2025-03-18 21:04:00 UTC  | 217.197.86.172 | DE         | Germany    | Individual Network...   | Individual Network Berlin     | ("IN-Berlin"... |
+| electrologic.org              | true | true | true    | 2025-03-17 21:02:23 UTC  | 95.217.86.134  | FI         | Finland    | Hetzner Online GmbH     | HETZNER-DC                    | GmbH            |
+| mercurius.teckids.org         | true | true | true    | 2025-03-17 21:01:56 UTC  | 91.184.37.236  | DE         | Germany    | SpeedPartner GmbH       | SpeedPartner GmbH             | GmbH            |
+| ssweeny.net                   | true | true | true    | 2025-03-16 23:54:34 UTC  | 69.164.209.16  | US         | States     | Akamai Technologies...  | Linode                        | Cloud           |
+| bl4ckb0x.biz                  | true | true | true    | 2025-03-16 23:52:36 UTC  | 178.63.55.74   | DE         | Germany    | Hetzner Online GmbH     | Hetzner                       | GmbH            |
+| chatterboxtown.us             | true | true | true    | 2025-03-16 23:52:11 UTC  | 74.208.163.85  | US         | States     | IONOS SE                | IONOS Inc                     | SE              |
+| sysad.org                     | true | true | true    | 2025-03-16 23:51:33 UTC  | 95.217.41.237  | FI         | Finland    | Hetzner Online GmbH     | HETZNER-DC                    | GmbH            |
+| mraw.org                      | true | true | true    | 2025-03-16 23:36:19 UTC  | 195.154.31.160 | FR         | France     | Online S.A.S.           | ONLINE                        | S.A.S.          |
+| incenp.org                    | true | true | true    | 2025-03-16 23:34:33 UTC  | 51.254.143.22  | FR         | France     | OVH SAS                 | OVH                           | SAS             |
+| blackseo.pro                  | true | true | true    | 2025-03-16 23:22:07 UTC  | 188.166.98.137 | NL         | Netherlands| DigitalOcean, LLC       | Digital Ocean                 | LLC             |
